@@ -1,15 +1,12 @@
 # 🎭 Text Emotion Recognition with BERT
 
-Dự án nhận diện cảm xúc từ văn bản tiếng Anh sử dụng mô hình học sâu **BERT** và giao diện web với **Streamlit**. Người dùng chỉ cần nhập một đoạn văn, hệ thống sẽ phân tích và dự đoán cảm xúc tương ứng.
+The project recognizes emotions from English text using the deep learning model **BERT** and the web interface with **Streamlit**. Users only need to enter a paragraph, the system will analyze and predict the corresponding emotion.
 
 ---
 
-## 🚀 Tính năng chính
+## 🚀 Main features
 
-- Huấn luyện mô hình phân loại cảm xúc bằng BERT
-- Làm sạch dữ liệu đầu vào
-- Dự đoán cảm xúc trực tiếp từ văn bản
-- Giao diện web đơn giản, dễ dùng (Streamlit)
-
----
-
+- Train the emotion classification model with BERT
+- Clean the input data
+- Predict emotions directly from the text
+- Simple, easy-to-use web interface (Streamlit)
